@@ -1,7 +1,7 @@
 ## Hi there 👋
 I'm Sam. Full stack developer and EDI Specialist.
 <img src="gif-club-penguin-dance-3232759201.gif" width="100" />
-<img src="latest-3690373492.webp" width="100" />
+<!-- <img src="latest-3690373492.webp" width="100" /> -->
 <!--
 **Forworddash/Forworddash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
